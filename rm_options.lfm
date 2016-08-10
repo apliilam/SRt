@@ -1,0 +1,274 @@
+object Form4: TForm4
+  Left = -1217
+  Height = 405
+  Top = 439
+  Width = 688
+  Caption = 'Options'
+  ClientHeight = 405
+  ClientWidth = 688
+  Color = clSilver
+  OnClose = FormClose
+  Position = poOwnerFormCenter
+  LCLVersion = '1.4.4.0'
+  object rGroupBox_Lang: TGroupBox
+    Left = 16
+    Height = 88
+    Top = 264
+    Width = 328
+    Caption = 'Language'
+    ClientHeight = 68
+    ClientWidth = 324
+    TabOrder = 0
+    object rRadioButton_en: TRadioButton
+      Left = 16
+      Height = 19
+      Top = 8
+      Width = 58
+      Caption = 'English'
+      Checked = True
+      OnChange = rRadioButton_enChange
+      TabOrder = 0
+      TabStop = True
+    end
+    object rRadioButton_ru: TRadioButton
+      Left = 16
+      Height = 19
+      Top = 32
+      Width = 65
+      Caption = 'Русский'
+      OnChange = rRadioButton_ruChange
+      TabOrder = 1
+    end
+  end
+  object rGroupBox_FormProperties: TGroupBox
+    Left = 16
+    Height = 224
+    Top = 32
+    Width = 328
+    Caption = 'Release form properties'
+    ClientHeight = 204
+    ClientWidth = 324
+    TabOrder = 1
+    object rPanel_options2: TPanel
+      Left = 6
+      Height = 116
+      Top = 12
+      Width = 312
+      ClientHeight = 116
+      ClientWidth = 312
+      TabOrder = 0
+      object rTrackBar_jpgQuality: TTrackBar
+        Left = 8
+        Height = 25
+        Top = 24
+        Width = 296
+        Frequency = 10
+        Max = 100
+        OnChange = rTrackBar_jpgQualityChange
+        Position = 92
+        TickStyle = tsNone
+        TabOrder = 0
+      end
+      object rLabel_jpgQuality: TLabel
+        Left = 24
+        Height = 15
+        Top = 8
+        Width = 105
+        Caption = 'release quality (JPG)'
+        ParentColor = False
+      end
+      object rCheckBox_UseSignature: TCheckBox
+        Left = 16
+        Height = 19
+        Hint = 'use of scanned signature'
+        Top = 56
+        Width = 142
+        Caption = ' Use digitized signature'
+        Checked = True
+        OnChange = rCheckBox_UseSignatureChange
+        ParentShowHint = False
+        ShowHint = True
+        State = cbChecked
+        TabOrder = 1
+      end
+      object rCheckBox_UseDate: TCheckBox
+        Left = 16
+        Height = 19
+        Hint = 'use of Dates on forms'
+        Top = 80
+        Width = 69
+        Caption = ' Use Date'
+        Checked = True
+        OnChange = rCheckBox_UseDateChange
+        ParentShowHint = False
+        ShowHint = True
+        State = cbChecked
+        TabOrder = 2
+      end
+    end
+    object rComboBox_dbNameList: TComboBox
+      Left = 16
+      Height = 23
+      Top = 164
+      Width = 274
+      ItemHeight = 15
+      Style = csDropDownList
+      TabOrder = 1
+    end
+    object rSB_dbNameDel: TSpeedButton
+      Left = 296
+      Height = 22
+      Hint = 'remove from database'
+      Top = 165
+      Width = 23
+      Flat = True
+      Glyph.Data = {
+        76060000424D7606000000000000360000002800000014000000140000000100
+        2000000000004006000064000000640000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000666666106666667066666680666666806666
+        6680666666806666668066666680666666706666661000000000000000000000
+        0000000000000000000000000000000000000000000000000000666666306666
+        66EF666666FF666666FF666666FF666666FF666666FF666666FF666666FF6666
+        66FF666666EF6666663000000000000000000000000000000000000000000000
+        00000000000066666620666666EF666666FF6666669F66666660666666EF6666
+        66EF6666661066666630666666FF66666660666666EF666666EF666666200000
+        0000000000000000000000000000000000000000000066666680666666FF6666
+        6650666666EF666666FF66666660666666BF6666668F666666CF666666EF6666
+        669F66666630666666FF66666680000000000000000000000000000000000000
+        000000000000666666BF666666CF66666630666666EF666666AF000000006666
+        6640666666FF666666AF66666620666666FF666666AF666666FF666666BF0000
+        00000000000000000000000000000000000000000000666666BF666666DF6666
+        66EF66666680666666FF666666206666669F666666FF66666680000000006666
+        66CF666666DF666666CF666666BF000000000000000000000000000000000000
+        000000000000666666BF666666FF66666680000000006666669F666666EF6666
+        66CF66666630666666EF6666668F666666EF666666FF666666DF666666BF0000
+        00000000000000000000000000000000000000000000666666BF666666FF6666
+        66BF000000006666668F666666FF6666663000000000666666AF666666EF6666
+        66306666669F666666FF666666BF000000000000000000000000000000000000
+        000000000000666666BF666666CF666666EF6666668F666666EF666666BF6666
+        669F66666660666666EF666666FF6666662066666670666666FF666666BF0000
+        00000000000000000000000000000000000000000000666666BF666666BF6666
+        669F666666FF6666663066666620666666FF666666FF666666406666669F6666
+        66BF666666FF666666EF666666BF000000000000000000000000000000000000
+        000000000000666666BF666666EF666666EF666666EF66666640666666306666
+        66EF666666AF0000000066666650666666FF66666670666666BF666666BF0000
+        00000000000000000000000000000000000000000000666666BF666666FF6666
+        666066666680666666CF666666EF66666680666666FF66666650666666EF6666
+        66CF6666669F666666BF666666BF000000000000000000000000000000000000
+        000000000000666666BF666666CF6666664066666650666666FF666666AF6666
+        6640666666BF666666FF666666AF66666660666666FF666666DF666666BF0000
+        00000000000000000000000000000000000000000000666666BF666666EF6666
+        66BF666666BF666666BF666666BF666666BF666666BF666666BF666666BF6666
+        66BF666666BF666666EF666666BF000000000000000000000000000000000000
+        000000000000666666BF666666BF000000000000000000000000000000000000
+        00000000000000000000000000000000000000000000666666BF666666BF0000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000
+      }
+      OnClick = rSB_dbNameDelClick
+      ShowHint = True
+      ParentShowHint = False
+    end
+    object rLabel_jpgDimensions1: TLabel
+      Left = 24
+      Height = 15
+      Top = 144
+      Width = 37
+      Caption = 'Names'
+      ParentColor = False
+    end
+  end
+  object rPanel_options1: TPanel
+    Left = 368
+    Height = 312
+    Top = 40
+    Width = 304
+    ClientHeight = 312
+    ClientWidth = 304
+    TabOrder = 2
+    object prCheckBoxCopyPrName: TCheckBox
+      Left = 16
+      Height = 19
+      Hint = 'Copy Release (file) name to clipboard'
+      Top = 46
+      Width = 126
+      Caption = ' Copy Release name'
+      ParentShowHint = False
+      ShowHint = True
+      TabOrder = 0
+    end
+    object prCheckBoxUseSS_Compatibility: TCheckBox
+      Left = 16
+      Height = 19
+      Hint = 'Release for StockSubmitter'
+      Top = 22
+      Width = 164
+      Caption = ' Release for StockSubmitter'
+      OnChange = prCheckBoxUseSS_CompatibilityChange
+      ParentShowHint = False
+      ShowHint = True
+      TabOrder = 1
+    end
+    object rLabelDateFormat: TLabel
+      Left = 192
+      Height = 15
+      Top = 256
+      Width = 102
+      Caption = 'release Date format'
+      ParentColor = False
+      Visible = False
+    end
+    object rComboBoxDateFormat: TComboBox
+      Left = 192
+      Height = 23
+      Top = 272
+      Width = 104
+      ItemHeight = 15
+      ItemIndex = 0
+      Items.Strings = (
+        'dd.MM.yyyy'
+        'd.M.yyyy'
+        'MM.dd.yyyy'
+        'M.d.yyyy'
+      )
+      Style = csDropDownList
+      TabOrder = 2
+      Text = 'dd.MM.yyyy'
+      Visible = False
+    end
+    object rLabel_jpgDimensions: TLabel
+      Left = 24
+      Height = 15
+      Top = 256
+      Width = 100
+      Caption = 'release dimensions'
+      ParentColor = False
+      Visible = False
+    end
+    object rTrackBar_jpgDimension: TTrackBar
+      Left = 8
+      Height = 25
+      Top = 272
+      Width = 160
+      Frequency = 10
+      Max = 16
+      Min = 1
+      OnChange = rTrackBar_jpgDimensionChange
+      Position = 5
+      TickStyle = tsNone
+      TabOrder = 3
+      Visible = False
+    end
+  end
+end

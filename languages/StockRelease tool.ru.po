@@ -1,0 +1,1182 @@
+msgid "Double Click - fill the form field \"Date\" (from file  -> to form)"
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Двойной щелчок - заполнить поле «Дата» (из файла-> в форму)\n"
+
+#: rm_main.appsname
+msgid "StockReleaseTool (beta)"
+msgstr ""
+
+#: rm_options.tr_en
+msgctxt "rm_options.tr_en"
+msgid "languages\\PR_Maker.en.po"
+msgstr ""
+
+#: rm_options.tr_ru
+msgctxt "rm_options.tr_ru"
+msgid "languages\\PR_Maker.ru.po"
+msgstr ""
+
+#: rm_translate.translatefile_en
+msgctxt "rm_translate.translatefile_en"
+msgid "languages\\PR_Maker.en.po"
+msgstr ""
+
+#: rm_translate.translatefile_ru
+msgctxt "rm_translate.translatefile_ru"
+msgid "languages\\PR_Maker.ru.po"
+msgstr ""
+
+#: rm_translate.trl_becarefuldigitalsignature
+msgctxt "rm_translate.trl_becarefuldigitalsignature"
+msgid "Be careful! Some microstock prohibit the use digitized signature."
+msgstr "Будьте Внимательны! Некоторые микростоки запрещают использование оцифрованной подписи."
+
+#: rm_translate.trl_confirmation
+msgid "Confirmation"
+msgstr "Подтверждение"
+
+#: rm_translate.trl_continueq
+msgid "Continue?"
+msgstr "Продолжить?"
+
+#: rm_translate.trl_countfileserror_toomanyfiles
+msgid "Too many files!"
+msgstr "Слишком много файлов!"
+
+#: rm_translate.trl_create
+msgid "Create"
+msgstr "Создать"
+
+#: rm_translate.trl_donationmessage1
+msgid "If your working speed increased by this application, you can make a donation via Paypal"
+msgstr "Если эта программа облегчила Вам жизнь, Вы всегда можете сказать спасибо через Paypal"
+
+#: rm_translate.trl_donationmessage2
+msgid "Copy email to clipboard?"
+msgstr "Скопировать email в буфер обмена?"
+
+#: rm_translate.trl_donationmessage3
+msgid "Donate?"
+msgstr "Перейти на Paypal?"
+
+#: rm_translate.trl_error
+msgid "Oops!"
+msgstr "Ошибка"
+
+#: rm_translate.trl_errorcreatingtable
+msgid "An error occurred while creating a table"
+msgstr "При создании таблицы БД произошла ошибка"
+
+#: rm_translate.trl_filenotfound
+msgid "File not found"
+msgstr "Файла не найден"
+
+#: rm_translate.trl_file_
+msgid "File "
+msgstr "Файл "
+
+#: rm_translate.trl_fillnamefieldinengform
+msgid "Fill Name(print) field in the ENG form"
+msgstr "Заполните Name(print) на форме ENG"
+
+#: rm_translate.trl_getcurrentdate
+msgid "Get current Date"
+msgstr "Взять текущую Дату"
+
+#: rm_translate.trl_getfiledate
+msgctxt "rm_translate.trl_getfiledate"
+msgid "Get file Date"
+msgstr "Взять Дату из файла"
+
+#: rm_translate.trl_iammodelandphotographer
+msgid " I am Model and Photographer"
+msgstr " Я Модель и Фотограф"
+
+#: rm_translate.trl_iamownerandphotographer
+msgctxt "rm_translate.trl_iamownerandphotographer"
+msgid " I am Owner and Photographer"
+msgstr " Я Владелец и Фотограф"
+
+#: rm_translate.trl_information
+msgid "Information"
+msgstr "Информация"
+
+#: rm_translate.trl_modeldatecannotbeearliershootdate
+msgid "\"Model Date\" can not be earlier than \"Shoot Date\""
+msgstr "\"Model Date\" не может быть раньше чем \"Shoot Date\""
+
+#: rm_translate.trl_modelmustbeanadult
+msgid "The Model must be an adult. Make sure the correct date of birth Models"
+msgstr "Модель должна быть совершеннолетней. Убедитесь, что дата рождения заполнена правильно."
+
+#: rm_translate.trl_mustbelessthan
+msgid "allowable no more than "
+msgstr "должно быть меньше "
+
+#: rm_translate.trl_overwritefileq
+msgid "Overwrite file?"
+msgstr "Перезаписать файл?"
+
+#: rm_translate.trl_photographerdatecannotbeearliermodeldate
+msgid "\"Photographer Date\" can not be earlier than \"Model Date\""
+msgstr "\"Photographer Date\" не может быть раньше чем \"Model Date\""
+
+#: rm_translate.trl_photographerdatecannotbeearlierownerdate
+msgid "\"Photographer Date\" can not be earlier than \"Owner Date\""
+msgstr "\"Photographer Date\" не может быть раньше чем \"Owner Date\""
+
+#: rm_translate.trl_prgroupboxfilecaption
+msgctxt "rm_translate.trl_prgroupboxfilecaption"
+msgid "File(s) list:"
+msgstr "Список файлов:"
+
+#: rm_translate.trl_releasefilecreated
+msgid "Release file created"
+msgstr "Release-файл успешно создан"
+
+#: rm_translate.trl_sketcheshasnotbeenadded
+msgid "Images has not been added."
+msgstr "Изображения не добавлены."
+
+#: rm_translate.trl_turnonform
+msgid "Turn On form (ENG and/or RUS)"
+msgstr "включите форму (ENG и/или RUS)"
+
+#: rm_translate.trl_uploadsignaturefile
+msgid "Upload Signature file(s)"
+msgstr "Загрузите файл(ы) подписи"
+
+#: rm_translate.trl_witnessdatecannotbeearlierphotographerdate
+msgid "\"Witness Date\" can not be earlier than \"Photographer Date\""
+msgstr "\"Witness Date\" не может быть раньше чем \"Photographer Date\""
+
+#: rm_translate.trl_youmustfillallfields
+msgid "You must be fill all fields"
+msgstr "Заполните все поля формы"
+
+#: rm_translate.trl_youneedaddfiletolist
+msgid "You need to add file(s) to the list"
+msgstr "Добавьте файл(ы) в список"
+
+#: rm_translate.trl_youneednamereleasefile
+msgid "You need to add Release file name"
+msgstr "Добавьте имя файла Релиза"
+
+#: rm_translate.trl__alreadyexistsdot
+msgid " already exists."
+msgstr " уже существует."
+
+#: rm_translate.trl__files
+msgid " files"
+msgstr " файлов"
+
+#: tform1.caption
+msgid "ReleaseTool"
+msgstr ""
+
+#: tform1.edit8.text
+msgctxt "tform1.edit8.text"
+msgid "ENG - not avalable"
+msgstr ""
+
+#: tform1.edit9.text
+msgctxt "tform1.edit9.text"
+msgid "RUS - not avalable"
+msgstr ""
+
+#: tform1.menuexit.caption
+msgid "Exit"
+msgstr "Выход"
+
+#: tform1.menufile.caption
+msgid "File"
+msgstr "Файл"
+
+#: tform1.menuhelp.caption
+msgctxt "TFORM1.MENUHELP.CAPTION"
+msgid "Help"
+msgstr "Помощь"
+
+#: tform1.menuoptions.caption
+msgctxt "tform1.menuoptions.caption"
+msgid "Options"
+msgstr "Настройки"
+
+#: tform1.menusabout.caption
+msgid "About"
+msgstr "О программе"
+
+#: tform1.menusdonate.caption
+msgctxt "tform1.menusdonate.caption"
+msgid "Donate"
+msgstr "Пожертвовать"
+
+#: tform1.menuslicense.caption
+msgid "License (GPLv3)"
+msgstr "Лицензия"
+
+#: tform1.menusonlinehelp.caption
+msgid "Online Help"
+msgstr "Помощь онлайн"
+
+#: tform1.mr.caption
+msgctxt "tform1.mr.caption"
+msgid "Model Release"
+msgstr "Model Release"
+
+#: tform1.mrbitbtn_ssmodelphoto.caption
+msgctxt "tform1.mrbitbtn_ssmodelphoto.caption"
+msgid "..."
+msgstr "..."
+
+#: tform1.mrcheckbox_autofillmrname.caption
+msgid "autofill"
+msgstr "автозаполнение"
+
+#: tform1.mrcheckbox_autofillmrname.hint
+msgid "autofill \"Release file name\""
+msgstr "автозаполнение \"имя файла Release\""
+
+#: tform1.mrengedit_odate.cancelcaption
+msgctxt "tform1.mrengedit_odate.cancelcaption"
+msgid "Cancel"
+msgstr "Отмена"
+
+#: tform1.mrengedit_odate.okcaption
+msgctxt "tform1.mrengedit_odate.okcaption"
+msgid "OK"
+msgstr "ДА"
+
+#: tform1.mrengedit_odatebirth.cancelcaption
+msgctxt "tform1.mrengedit_odatebirth.cancelcaption"
+msgid "Cancel"
+msgstr "Отмена"
+
+#: tform1.mrengedit_odatebirth.okcaption
+msgctxt "tform1.mrengedit_odatebirth.okcaption"
+msgid "OK"
+msgstr "ДА"
+
+#: tform1.mrengedit_pdate.cancelcaption
+msgctxt "tform1.mrengedit_pdate.cancelcaption"
+msgid "Cancel"
+msgstr "Отмена"
+
+#: tform1.mrengedit_pdate.okcaption
+msgctxt "tform1.mrengedit_pdate.okcaption"
+msgid "OK"
+msgstr "ДА"
+
+#: tform1.mrengedit_pshootdate.cancelcaption
+msgctxt "tform1.mrengedit_pshootdate.cancelcaption"
+msgid "Cancel"
+msgstr "Отмена"
+
+#: tform1.mrengedit_pshootdate.okcaption
+msgctxt "tform1.mrengedit_pshootdate.okcaption"
+msgid "OK"
+msgstr "ДА"
+
+#: tform1.mrengedit_wdate.cancelcaption
+msgctxt "tform1.mrengedit_wdate.cancelcaption"
+msgid "Cancel"
+msgstr "Отмена"
+
+#: tform1.mrengedit_wdate.okcaption
+msgctxt "tform1.mrengedit_wdate.okcaption"
+msgid "OK"
+msgstr "ДА"
+
+#: tform1.mrengimage_osign.hint
+msgctxt "tform1.mrengimage_osign.hint"
+msgid "Press and move Model Signature using a mouse"
+msgstr "Для перемещения подписи Модели используйте мышь"
+
+#: tform1.mrengimage_psign.hint
+msgctxt "tform1.mrengimage_psign.hint"
+msgid "Press and move Photographer Signature using a mouse"
+msgstr "Для перемещения подписи Фотографа используйте мышь"
+
+#: tform1.mrengimage_wsign.hint
+msgctxt "tform1.mrengimage_wsign.hint"
+msgid "Press and move Witness Signature using a mouse"
+msgstr "Для перемещения подписи Свидетеля используйте мышь"
+
+#: tform1.mrengsb_dboload.hint
+msgctxt "tform1.mrengsb_dboload.hint"
+msgid "load Model data"
+msgstr "загрузить данные Модели"
+
+#: tform1.mrengsb_dboupdate.hint
+msgctxt "tform1.mrengsb_dboupdate.hint"
+msgid "save Model data"
+msgstr "сохранить данные Модели"
+
+#: tform1.mrengsb_dbpload.hint
+msgctxt "tform1.mrengsb_dbpload.hint"
+msgid "load Photographer data"
+msgstr "загрузить данные Фотографа"
+
+#: tform1.mrengsb_dbpupdate.hint
+msgctxt "tform1.mrengsb_dbpupdate.hint"
+msgid "save Photographer data"
+msgstr "сохранить данные Фотографа"
+
+#: tform1.mrengsb_dbwload.hint
+msgctxt "tform1.mrengsb_dbwload.hint"
+msgid "load Witness data"
+msgstr "загрузить данные Свидетеля"
+
+#: tform1.mrengsb_dbwupdate.hint
+msgctxt "tform1.mrengsb_dbwupdate.hint"
+msgid "save Witness data"
+msgstr "сохранить данные Свидетеля"
+
+#: tform1.mrengsb_oclear.hint
+msgctxt "tform1.mrengsb_oclear.hint"
+msgid "clear Model form fields"
+msgstr "очистить поля формы для Модели"
+
+#: tform1.mrengsb_ocountry.hint
+msgctxt "tform1.mrengsb_ocountry.hint"
+msgid "Set Country (Model)"
+msgstr "Выбрать Страну (Модель)"
+
+#: tform1.mrengsb_odate.hint
+msgctxt "tform1.mrengsb_odate.hint"
+msgid "Set Date (Model)"
+msgstr "Выбрать Дату (Модель)"
+
+#: tform1.mrengsb_odatebirth.hint
+msgid "Set Date of Birth (Model)"
+msgstr "Выбрать дату рождения (Модель)"
+
+#: tform1.mrengsb_osignature.hint
+msgctxt "tform1.mrengsb_osignature.hint"
+msgid "Load Model Signature image (transparent png)"
+msgstr "Загрузить скан подписи Модели (png-файл с прозрачным фоном)"
+
+#: tform1.mrengsb_pclear.hint
+msgctxt "tform1.mrengsb_pclear.hint"
+msgid "clear Photographer form fields"
+msgstr "очистить поля формы для Фотографа"
+
+#: tform1.mrengsb_pcountry.hint
+msgctxt "tform1.mrengsb_pcountry.hint"
+msgid "Set Country (Photographer)"
+msgstr "Выбрать Страну (Фотограф)"
+
+#: tform1.mrengsb_pdate.hint
+msgctxt "tform1.mrengsb_pdate.hint"
+msgid "Set Date (Photographer)"
+msgstr "Выбрать Дату (Фотограф)"
+
+#: tform1.mrengsb_pshootdate.hint
+msgid "Set Shooting Date"
+msgstr "Выбрать Дату съемки"
+
+#: tform1.mrengsb_psignature.hint
+msgctxt "tform1.mrengsb_psignature.hint"
+msgid "Load Photographer Signature image (transparent png)"
+msgstr "Загрузить скан подписи Фотографа (png-файл с прозрачным фоном)"
+
+#: tform1.mrengsb_wclear.hint
+msgctxt "tform1.mrengsb_wclear.hint"
+msgid "clear Witness form fields"
+msgstr "очистить поля формы для Свидетеля"
+
+#: tform1.mrengsb_wdate.hint
+msgctxt "tform1.mrengsb_wdate.hint"
+msgid "Set Date (Witness)"
+msgstr "Выбрать Дату (Свидетель)"
+
+#: tform1.mrengsb_wsignature.hint
+msgctxt "tform1.mrengsb_wsignature.hint"
+msgid "Load Witness Signature image (transparent png)"
+msgstr "Загрузить скан подписи Свидетеля (png-файл с прозрачным фоном)"
+
+#: tform1.mrgroupboxfile.caption
+msgid "Release file name:"
+msgstr "имя файла Релиза"
+
+#: tform1.mrgroupbox_ssfieldsmodel.caption
+msgid "StockSubmitter fields (model)"
+msgstr "форма StockSubmitter-а (Model Release)"
+
+#: tform1.mrlabel_ssbirthdate.caption
+msgid "Birth date"
+msgstr "Дата рождения"
+
+#: tform1.mrlabel_sscountry.caption
+msgctxt "tform1.mrlabel_sscountry.caption"
+msgid "Country"
+msgstr "Страна"
+
+#: tform1.mrlabel_ssethnicity.caption
+msgid "Ethnicity"
+msgstr "Этнический тип"
+
+#: tform1.mrlabel_ssfirstname.caption
+msgid "First name:"
+msgstr "Имя:"
+
+#: tform1.mrlabel_ssgender.caption
+msgid "Gender"
+msgstr "Пол"
+
+#: tform1.mrlabel_sslastname.caption
+msgid "Last name:"
+msgstr "Фамилия:"
+
+#: tform1.mrlabel_ssmodelphoto.caption
+msgctxt "tform1.mrlabel_ssmodelphoto.caption"
+msgid "Model photo (optional):"
+msgstr "Фото модели (не обязательно):"
+
+#: tform1.mrlabel_ssnote.caption
+msgctxt "tform1.mrlabel_ssnote.caption"
+msgid "Note (optional):"
+msgstr "Примечание (не обязательно):"
+
+#: tform1.mrlabel_ssshootingdate.caption
+msgctxt "tform1.mrlabel_ssshootingdate.caption"
+msgid "Shooting date"
+msgstr "Дата съемки"
+
+#: tform1.mrlabel_sstype.caption
+msgctxt "tform1.mrlabel_sstype.caption"
+msgid "Type"
+msgstr "Тип"
+
+#: tform1.mrm.caption
+msgctxt "tform1.mrm.caption"
+msgid "Model Release (Minor)"
+msgstr "Model Release (Minor)"
+
+#: tform1.mrrusedit_odate.cancelcaption
+msgctxt "tform1.mrrusedit_odate.cancelcaption"
+msgid "Cancel"
+msgstr "Отмена"
+
+#: tform1.mrrusedit_odate.okcaption
+msgctxt "tform1.mrrusedit_odate.okcaption"
+msgid "OK"
+msgstr "ДА"
+
+#: tform1.mrrusedit_pdate.cancelcaption
+msgctxt "tform1.mrrusedit_pdate.cancelcaption"
+msgid "Cancel"
+msgstr "Отмена"
+
+#: tform1.mrrusedit_pdate.okcaption
+msgctxt "tform1.mrrusedit_pdate.okcaption"
+msgid "OK"
+msgstr "ДА"
+
+#: tform1.mrrusedit_wdate.cancelcaption
+msgctxt "tform1.mrrusedit_wdate.cancelcaption"
+msgid "Cancel"
+msgstr "Отмена"
+
+#: tform1.mrrusedit_wdate.okcaption
+msgctxt "tform1.mrrusedit_wdate.okcaption"
+msgid "OK"
+msgstr "ДА"
+
+#: tform1.mrrusimage_osign.hint
+msgctxt "tform1.mrrusimage_osign.hint"
+msgid "Press and move Model Signature using a mouse"
+msgstr "Для перемещения подписи Модели используйте мышь"
+
+#: tform1.mrrusimage_psign.hint
+msgctxt "tform1.mrrusimage_psign.hint"
+msgid "Press and move Photographer Signature using a mouse"
+msgstr "Для перемещения подписи Фотографа используйте мышь"
+
+#: tform1.mrrusimage_wsign.hint
+msgctxt "tform1.mrrusimage_wsign.hint"
+msgid "Press and move Witness Signature using a mouse"
+msgstr "Для перемещения подписи Свидетеля используйте мышь"
+
+#: tform1.mrrussb_dboload.hint
+msgctxt "tform1.mrrussb_dboload.hint"
+msgid "load Model data"
+msgstr "загрузить данные Модели"
+
+#: tform1.mrrussb_dboupdate.hint
+msgctxt "tform1.mrrussb_dboupdate.hint"
+msgid "save Model data"
+msgstr "сохранить данные Модели"
+
+#: tform1.mrrussb_dbpload.hint
+msgctxt "tform1.mrrussb_dbpload.hint"
+msgid "load Photographer data"
+msgstr "загрузить данные Фотографа"
+
+#: tform1.mrrussb_dbpupdate.hint
+msgctxt "tform1.mrrussb_dbpupdate.hint"
+msgid "save Photographer data"
+msgstr "сохранить данные Фотографа"
+
+#: tform1.mrrussb_dbwload.hint
+msgctxt "tform1.mrrussb_dbwload.hint"
+msgid "load Witness data"
+msgstr "загрузить данные Свидетеля"
+
+#: tform1.mrrussb_dbwupdate.hint
+msgctxt "tform1.mrrussb_dbwupdate.hint"
+msgid "save Witness data"
+msgstr "сохранить данные Свидетеля"
+
+#: tform1.mrrussb_oclear.hint
+msgctxt "tform1.mrrussb_oclear.hint"
+msgid "clear Model form fields"
+msgstr "очистить поля формы для Модели"
+
+#: tform1.mrrussb_ocountry.hint
+msgctxt "tform1.mrrussb_ocountry.hint"
+msgid "Set Country (Model)"
+msgstr "Выбрать Страну (Модель)"
+
+#: tform1.mrrussb_odate.hint
+msgctxt "tform1.mrrussb_odate.hint"
+msgid "Set Date (Model)"
+msgstr "Выбрать Дату (Модель)"
+
+#: tform1.mrrussb_osignature.hint
+msgctxt "tform1.mrrussb_osignature.hint"
+msgid "Load Model Signature image (transparent png)"
+msgstr "Загрузить скан подписи Модели (png-файл с прозрачным фоном)"
+
+#: tform1.mrrussb_pclear.hint
+msgctxt "tform1.mrrussb_pclear.hint"
+msgid "clear Photographer form fields"
+msgstr "очистить поля формы для Фотографа"
+
+#: tform1.mrrussb_pcountry.hint
+msgctxt "tform1.mrrussb_pcountry.hint"
+msgid "Set Country (Photographer)"
+msgstr "Выбрать Страну (Фотограф)"
+
+#: tform1.mrrussb_pdate.hint
+msgctxt "tform1.mrrussb_pdate.hint"
+msgid "Set Date (Photographer)"
+msgstr "Выбрать Дату (Фотограф)"
+
+#: tform1.mrrussb_psignature.hint
+msgctxt "tform1.mrrussb_psignature.hint"
+msgid "Load Photographer Signature image (transparent png)"
+msgstr "Загрузить скан подписи Фотографа (png-файл с прозрачным фоном)"
+
+#: tform1.mrrussb_wclear.hint
+msgctxt "tform1.mrrussb_wclear.hint"
+msgid "clear Witness form fields"
+msgstr "очистить поля формы для Свидетеля"
+
+#: tform1.mrrussb_wdate.hint
+msgctxt "tform1.mrrussb_wdate.hint"
+msgid "Set Date (Witness)"
+msgstr "Выбрать Дату (Свидетель)"
+
+#: tform1.mrrussb_wsignature.hint
+msgctxt "tform1.mrrussb_wsignature.hint"
+msgid "Load Witness Signature image (transparent png)"
+msgstr "Загрузить скан подписи Свидетеля (png-файл с прозрачным фоном)"
+
+#: tform1.panel1.caption
+msgid "Panel1"
+msgstr ""
+
+#: tform1.pr.caption
+msgctxt "tform1.pr.caption"
+msgid "Property Release"
+msgstr "Property Release"
+
+#: tform1.pra.caption
+msgctxt "tform1.pra.caption"
+msgid "Property Release (animal)"
+msgstr "Property Release (animal)"
+
+#: tform1.prbitbtn_ssmodelphoto.caption
+msgctxt "tform1.prbitbtn_ssmodelphoto.caption"
+msgid "..."
+msgstr "..."
+
+#: tform1.prbuttoncreate.caption
+msgid "create Release"
+msgstr "создать Release"
+
+#: tform1.prcheckbox_nearly.caption
+msgid " Put in the same directory"
+msgstr " Создать в той же папке"
+
+#: tform1.prcheckbox_nearly.hint
+msgid "create a Release in the folder next to the selected file"
+msgstr "создать Release в той же папке, где и выделенный файл"
+
+#: tform1.prcheckbox_onereleaseperfile.caption
+msgctxt "TFORM1.PRCHECKBOX_ONERELEASEPERFILE.CAPTION"
+msgid " One Release per File"
+msgstr " Один Релиз на Файл"
+
+#: tform1.prcheckbox_onereleaseperfile.hint
+msgctxt "tform1.prcheckbox_onereleaseperfile.hint"
+msgid "One Release per File"
+msgstr "Один Релиз на Файл"
+
+#: tform1.preditcustomtitle.hint
+msgid "for applying - press enter"
+msgstr "для применения нажмите Enter"
+
+#: tform1.prengedit_odate.cancelcaption
+msgctxt "tform1.prengedit_odate.cancelcaption"
+msgid "Cancel"
+msgstr "Отмена"
+
+#: tform1.prengedit_odate.okcaption
+msgctxt "tform1.prengedit_odate.okcaption"
+msgid "OK"
+msgstr "ДА"
+
+#: tform1.prengedit_pdate.cancelcaption
+msgctxt "tform1.prengedit_pdate.cancelcaption"
+msgid "Cancel"
+msgstr "Отмена"
+
+#: tform1.prengedit_pdate.okcaption
+msgctxt "tform1.prengedit_pdate.okcaption"
+msgid "OK"
+msgstr "ДА"
+
+#: tform1.prengedit_wdate.cancelcaption
+msgctxt "tform1.prengedit_wdate.cancelcaption"
+msgid "Cancel"
+msgstr "Отмена"
+
+#: tform1.prengedit_wdate.okcaption
+msgctxt "tform1.prengedit_wdate.okcaption"
+msgid "OK"
+msgstr "ДА"
+
+#: tform1.prengimage_osign.hint
+msgctxt "tform1.prengimage_osign.hint"
+msgid "Press and move Owner Signature using a mouse"
+msgstr "Для перемещения подписи Владельца используйте мышь"
+
+#: tform1.prengimage_psign.hint
+msgctxt "tform1.prengimage_psign.hint"
+msgid "Press and move Photographer Signature using a mouse"
+msgstr "Для перемещения подписи Фотографа используйте мышь"
+
+#: tform1.prengimage_wsign.hint
+msgctxt "tform1.prengimage_wsign.hint"
+msgid "Press and move Witness Signature using a mouse"
+msgstr "Для перемещения подписи Свидетеля используйте мышь"
+
+#: tform1.prengsb_dboload.hint
+msgctxt "tform1.prengsb_dboload.hint"
+msgid "load Owner data"
+msgstr "загрузить данные Владельца"
+
+#: tform1.prengsb_dboupdate.hint
+msgctxt "tform1.prengsb_dboupdate.hint"
+msgid "save Owner data"
+msgstr "сохранить данные Владельца"
+
+#: tform1.prengsb_dbpload.hint
+msgctxt "tform1.prengsb_dbpload.hint"
+msgid "load Photographer data"
+msgstr "загрузить данные Фотографа"
+
+#: tform1.prengsb_dbpupdate.hint
+msgctxt "tform1.prengsb_dbpupdate.hint"
+msgid "save Photographer data"
+msgstr "сохранить данные Фотографа"
+
+#: tform1.prengsb_dbwload.hint
+msgctxt "tform1.prengsb_dbwload.hint"
+msgid "load Witness data"
+msgstr "загрузить данные Свидетеля"
+
+#: tform1.prengsb_dbwupdate.hint
+msgctxt "tform1.prengsb_dbwupdate.hint"
+msgid "save Witness data"
+msgstr "сохранить данные Свидетеля"
+
+#: tform1.prengsb_oclear.hint
+msgctxt "tform1.prengsb_oclear.hint"
+msgid "clear Owner form fields"
+msgstr "очистить поля формы для Владельца"
+
+#: tform1.prengsb_ocountry.hint
+msgctxt "tform1.prengsb_ocountry.hint"
+msgid "Set Country (Owner)"
+msgstr "Выбрать Страну (Владелец)"
+
+#: tform1.prengsb_odate.hint
+msgctxt "tform1.prengsb_odate.hint"
+msgid "Set Date (Owner)"
+msgstr "Выбрать Дату (Владелец)"
+
+#: tform1.prengsb_osignature.hint
+msgctxt "tform1.prengsb_osignature.hint"
+msgid "Load Owner Signature image (transparent png)"
+msgstr "Загрузить скан подписи Владельца (png-файл с прозрачным фоном)"
+
+#: tform1.prengsb_pclear.hint
+msgctxt "tform1.prengsb_pclear.hint"
+msgid "clear Photographer form fields"
+msgstr "очистить поля формы для Фотографа"
+
+#: tform1.prengsb_pcountry.hint
+msgctxt "tform1.prengsb_pcountry.hint"
+msgid "Set Country (Photographer)"
+msgstr "Выбрать Страну (Фотограф)"
+
+#: tform1.prengsb_pdate.hint
+msgctxt "tform1.prengsb_pdate.hint"
+msgid "Set Date (Photographer)"
+msgstr "Выбрать Дату (Фотограф)"
+
+#: tform1.prengsb_psignature.hint
+msgctxt "tform1.prengsb_psignature.hint"
+msgid "Load Photographer Signature image (transparent png)"
+msgstr "Загрузить скан подписи Фотографа (png-файл с прозрачным фоном)"
+
+#: tform1.prengsb_wclear.hint
+msgctxt "tform1.prengsb_wclear.hint"
+msgid "clear Witness form fields"
+msgstr "очистить поля формы для Свидетеля"
+
+#: tform1.prengsb_wdate.hint
+msgctxt "tform1.prengsb_wdate.hint"
+msgid "Set Date (Witness)"
+msgstr "Выбрать Дату (Свидетель)"
+
+#: tform1.prengsb_wsignature.hint
+msgctxt "tform1.prengsb_wsignature.hint"
+msgid "Load Witness Signature image (transparent png)"
+msgstr "Загрузить скан подписи Свидетеля (png-файл с прозрачным фоном)"
+
+#: tform1.prgroupboxfile.caption
+msgctxt "tform1.prgroupboxfile.caption"
+msgid "File(s) list:"
+msgstr "Список файлов:"
+
+#: tform1.prgroupbox_ssfieldproperty.caption
+msgctxt "tform1.prgroupbox_ssfieldproperty.caption"
+msgid "StockSubmitter fields (property)"
+msgstr "форма StockSubmitter-а (Property Release)"
+
+#: tform1.prlabelselfile.caption
+msgid "                   "
+msgstr ""
+
+#: tform1.prlabel_sscountry.caption
+msgctxt "tform1.prlabel_sscountry.caption"
+msgid "Country"
+msgstr "Страна"
+
+#: tform1.prlabel_ssmodelphoto.caption
+msgctxt "tform1.prlabel_ssmodelphoto.caption"
+msgid "Model photo (optional):"
+msgstr "Фото модели (не обязательно):"
+
+#: tform1.prlabel_ssname.caption
+msgctxt "tform1.prlabel_ssname.caption"
+msgid "Name"
+msgstr "Имя/Название"
+
+#: tform1.prlabel_ssnote.caption
+msgctxt "tform1.prlabel_ssnote.caption"
+msgid "Note (optional):"
+msgstr "Примечание (не обязательно):"
+
+#: tform1.prlabel_sspropertyowner.caption
+msgctxt "tform1.prlabel_sspropertyowner.caption"
+msgid "Property owner:"
+msgstr "Владелец собственности:"
+
+#: tform1.prlabel_ssshootingdate.caption
+msgctxt "tform1.prlabel_ssshootingdate.caption"
+msgid "Shooting date"
+msgstr "Дата съемки"
+
+#: tform1.prlabel_sstype.caption
+msgctxt "tform1.prlabel_sstype.caption"
+msgid "Type"
+msgstr "Тип"
+
+#: tform1.prlistboxfile.hint
+msgid "Click - selecting file"
+msgstr "Клик - выделение файла"
+
+#: tform1.prpanelref.hint
+msgctxt "tform1.prpanelref.hint"
+msgid "Add Reference (double click)"
+msgstr "Двойной клик - добавление Референса"
+
+#: tform1.prppmenucrop.caption
+msgid "Crop"
+msgstr "Обрезка"
+
+#: tform1.prppmenudelete.caption
+msgctxt "TFORM1.PRPPMENUDELETE.CAPTION"
+msgid "Delete"
+msgstr "Удалить"
+
+#: tform1.prppmenugetfiledate.caption
+msgctxt "tform1.prppmenugetfiledate.caption"
+msgid "Get file Date"
+msgstr "Взять Дату из файла"
+
+#: tform1.prppmenugetrefdate.caption
+msgid "Get reference Date"
+msgstr "Взять Дату из референса"
+
+#: tform1.prppmenugetrefdate.hint
+msgid "Fill Date Owner field from this reference file"
+msgstr "Заполнить поле Даты Владельца из референсного изображения"
+
+#: tform1.prppmenuitemrotateno90.caption
+msgid "90 Counter Clockwise"
+msgstr "90 против часовой стрелки"
+
+#: tform1.prppmenuitemrotateyes90.caption
+msgid "90 Clockwise"
+msgstr "90 по часовой стрелке"
+
+#: tform1.prppmenureset.caption
+msgid "Revert"
+msgstr "Вернуть"
+
+#: tform1.prppmenurotate.caption
+msgid "Rotate"
+msgstr "Повернуть"
+
+#: tform1.prrusedit_odate.cancelcaption
+msgctxt "tform1.prrusedit_odate.cancelcaption"
+msgid "Cancel"
+msgstr "Отмена"
+
+#: tform1.prrusedit_odate.okcaption
+msgctxt "tform1.prrusedit_odate.okcaption"
+msgid "OK"
+msgstr "ДА"
+
+#: tform1.prrusedit_pdate.cancelcaption
+msgctxt "tform1.prrusedit_pdate.cancelcaption"
+msgid "Cancel"
+msgstr "Отмена"
+
+#: tform1.prrusedit_pdate.okcaption
+msgctxt "tform1.prrusedit_pdate.okcaption"
+msgid "OK"
+msgstr "ДА"
+
+#: tform1.prrusedit_wdate.cancelcaption
+msgctxt "tform1.prrusedit_wdate.cancelcaption"
+msgid "Cancel"
+msgstr "Отмена"
+
+#: tform1.prrusedit_wdate.okcaption
+msgctxt "tform1.prrusedit_wdate.okcaption"
+msgid "OK"
+msgstr "ДА"
+
+#: tform1.prrusimage_osign.hint
+msgctxt "tform1.prrusimage_osign.hint"
+msgid "Press and move Owner Signature using a mouse"
+msgstr "Для перемещения подписи Владельца используйте мышь"
+
+#: tform1.prrusimage_psign.hint
+msgctxt "tform1.prrusimage_psign.hint"
+msgid "Press and move Photographer Signature using a mouse"
+msgstr "Для перемещения подписи Фотографа используйте мышь"
+
+#: tform1.prrusimage_wsign.hint
+msgctxt "tform1.prrusimage_wsign.hint"
+msgid "Press and move Witness Signature using a mouse"
+msgstr "Для перемещения подписи Свидетеля используйте мышь"
+
+#: tform1.prrussb_dboload.hint
+msgctxt "tform1.prrussb_dboload.hint"
+msgid "load Owner data"
+msgstr "загрузить данные Владельца"
+
+#: tform1.prrussb_dboupdate.hint
+msgctxt "tform1.prrussb_dboupdate.hint"
+msgid "save Owner data"
+msgstr "сохранить данные Владельца"
+
+#: tform1.prrussb_dbpload.hint
+msgctxt "tform1.prrussb_dbpload.hint"
+msgid "load Photographer data"
+msgstr "загрузить данные Фотографа"
+
+#: tform1.prrussb_dbpupdate.hint
+msgctxt "tform1.prrussb_dbpupdate.hint"
+msgid "save Photographer data"
+msgstr "сохранить данные Фотографа"
+
+#: tform1.prrussb_dbwload.hint
+msgctxt "tform1.prrussb_dbwload.hint"
+msgid "load Witness data"
+msgstr "загрузить данные Свидетеля"
+
+#: tform1.prrussb_dbwupdate.hint
+msgctxt "tform1.prrussb_dbwupdate.hint"
+msgid "save Witness data"
+msgstr "сохранить данные Свидетеля"
+
+#: tform1.prrussb_oclear.hint
+msgctxt "tform1.prrussb_oclear.hint"
+msgid "clear Owner form fields"
+msgstr "очистить поля формы для Владельца"
+
+#: tform1.prrussb_ocountry.hint
+msgctxt "tform1.prrussb_ocountry.hint"
+msgid "Set Country (Owner)"
+msgstr "Выбрать Страну (Владелец)"
+
+#: tform1.prrussb_odate.hint
+msgctxt "tform1.prrussb_odate.hint"
+msgid "Set Date (Owner)"
+msgstr "Выбрать Дату (Владелец)"
+
+#: tform1.prrussb_osignature.hint
+msgctxt "tform1.prrussb_osignature.hint"
+msgid "Load Owner Signature image (transparent png)"
+msgstr "Загрузить скан подписи Владельца (png-файл с прозрачным фоном)"
+
+#: tform1.prrussb_pclear.hint
+msgctxt "tform1.prrussb_pclear.hint"
+msgid "clear Photographer form fields"
+msgstr "очистить поля формы для Фотографа"
+
+#: tform1.prrussb_pcountry.hint
+msgctxt "tform1.prrussb_pcountry.hint"
+msgid "Set Country (Photographer)"
+msgstr "Выбрать Страну (Фотограф)"
+
+#: tform1.prrussb_pdate.hint
+msgctxt "tform1.prrussb_pdate.hint"
+msgid "Set Date (Photographer)"
+msgstr "Выбрать Дату (Фотограф)"
+
+#: tform1.prrussb_psignature.hint
+msgctxt "tform1.prrussb_psignature.hint"
+msgid "Load Photographer Signature image (transparent png)"
+msgstr "Загрузить скан подписи Фотографа (png-файл с прозрачным фоном)"
+
+#: tform1.prrussb_wclear.hint
+msgctxt "tform1.prrussb_wclear.hint"
+msgid "clear Witness form fields"
+msgstr "очистить поля формы для Свидетеля"
+
+#: tform1.prrussb_wdate.hint
+msgctxt "tform1.prrussb_wdate.hint"
+msgid "Set Date (Witness)"
+msgstr "Выбрать Дату (Свидетель)"
+
+#: tform1.prrussb_wsignature.hint
+msgctxt "tform1.prrussb_wsignature.hint"
+msgid "Load Witness Signature image (transparent png)"
+msgstr "Загрузить скан подписи Свидетеля (png-файл с прозрачным фоном)"
+
+#: tform1.prsbdelallreferences.hint
+msgctxt "tform1.prsbdelallreferences.hint"
+msgid "Remove all References"
+msgstr "Удалить все Референсы"
+
+#: tform1.prsbrefpanelcollapse.hint
+msgctxt "tform1.prsbrefpanelcollapse.hint"
+msgid "minimize Reference area"
+msgstr "минимизировать область для изображений"
+
+#: tform1.prsb_add.caption
+msgid "Add Custom"
+msgstr "Добавить Свой"
+
+#: tform1.prsb_add.hint
+msgid "Add custom Title (file) to the list"
+msgstr "Добавить Имя несуществующего файла в список"
+
+#: tform1.prspeedbuttonfile.caption
+msgid "Open File(s)"
+msgstr "Открыть Файл(ы)"
+
+#: tform1.prspeedbuttonfile.hint
+msgid "Select file(s) to add to the list"
+msgstr "Выбрать файл(ы) и добавить в список"
+
+#: tform1.prspeedbuttonfileclear.caption
+msgid "Clear List"
+msgstr "Очистить список"
+
+#: tform1.prspeedbuttonfiledelete.caption
+msgctxt "tform1.prspeedbuttonfiledelete.caption"
+msgid "Delete"
+msgstr "Удалить"
+
+#: tform1.prspeedbuttonfiledelete.hint
+msgid "Remove Title (file) from the list"
+msgstr "Удалить Название (файл) из списка"
+
+#: tform1.prstatusbar.panels[0].text
+msgid " by apliilam"
+msgstr " by apliilam"
+
+#: tform1.rcheckbox_self.caption
+msgctxt "tform1.rcheckbox_self.caption"
+msgid " itself Owner"
+msgstr " Я сам Владелец"
+
+#: tform1.rcheckbox_self.hint
+msgctxt "tform1.rcheckbox_self.hint"
+msgid "autofill \"Model (Property) Information\" fields"
+msgstr "авто-заполнение полей в \"Model (Property) Information\""
+
+#: tform1.rpanelrefarea.caption
+msgctxt "tform1.rpanelrefarea.caption"
+msgid "add image"
+msgstr "добавить изображение"
+
+#: tform1.rpanelrefarea.hint
+msgctxt "tform1.rpanelrefarea.hint"
+msgid "add image (double click)"
+msgstr "добавление изображения (двойной клик)"
+
+#: tform1.rsbformeng.caption
+msgctxt "tform1.rsbformeng.caption"
+msgid "ENG"
+msgstr "ENG"
+
+#: tform1.rsbformeng.hint
+msgid "use English form"
+msgstr "использовать английскую форму"
+
+#: tform1.rsbformref.caption
+msgctxt "tform1.rsbformref.caption"
+msgid "images"
+msgstr "images"
+
+#: tform1.rsbformref.hint
+msgid "use images form"
+msgstr "использовать форму для изображений"
+
+#: tform1.rsbformrus.caption
+msgctxt "tform1.rsbformrus.caption"
+msgid "RUS"
+msgstr "RUS"
+
+#: tform1.rsbformrus.hint
+msgid "use Russian form"
+msgstr "использовать русскую форму"
+
+#: tform2.caption
+msgid "Crop image"
+msgstr "Обрезать изображение"
+
+#: tform3.caption
+msgid "Wait please"
+msgstr "Подождите пожалуйста"
+
+#: tform4.caption
+msgctxt "tform4.caption"
+msgid "Options"
+msgstr "Настройки"
+
+#: tform4.prcheckboxcopyprname.caption
+msgctxt "tform4.prcheckboxcopyprname.caption"
+msgid " Copy Release name"
+msgstr " Имя Release-файла в буфер"
+
+#: tform4.prcheckboxcopyprname.hint
+msgctxt "tform4.prcheckboxcopyprname.hint"
+msgid "Copy Release (file) name to clipboard"
+msgstr "Копирование имени Release (файла) в буфер обмена"
+
+#: tform4.prcheckboxusess_compatibility.caption
+msgid " Release for StockSubmitter"
+msgstr " Релиз для StockSubmitter"
+
+#: tform4.prcheckboxusess_compatibility.hint
+msgid "Release for StockSubmitter"
+msgstr " Релиз для StockSubmitter"
+
+#: tform4.rcheckbox_usedate.caption
+msgid " Use Date"
+msgstr " Использовать Дату"
+
+#: tform4.rcheckbox_usedate.hint
+msgid "use of Dates on forms"
+msgstr "использовать Даты на форме"
+
+#: tform4.rcheckbox_usesignature.caption
+msgctxt "tform4.rcheckbox_usesignature.caption"
+msgid " Use digitized signature"
+msgstr " Использовать оцифрованную подпись"
+
+#: tform4.rcheckbox_usesignature.hint
+msgctxt "tform4.rcheckbox_usesignature.hint"
+msgid "use of scanned signature"
+msgstr "использовать оцифрованную подпись"
+
+#: tform4.rcomboboxdateformat.text
+msgctxt "tform4.rcomboboxdateformat.text"
+msgid "dd.MM.yyyy"
+msgstr ""
+
+#: tform4.rgroupbox_formproperties.caption
+msgid "Release form properties"
+msgstr "Настройки формы релиза"
+
+#: tform4.rgroupbox_lang.caption
+msgctxt "tform4.rgroupbox_lang.caption"
+msgid "Language"
+msgstr "Язык"
+
+#: tform4.rlabeldateformat.caption
+msgctxt "tform4.rlabeldateformat.caption"
+msgid "release Date format"
+msgstr "формат даты Релиза"
+
+#: tform4.rlabel_jpgdimensions.caption
+msgid "release dimensions"
+msgstr ""
+
+#: tform4.rlabel_jpgdimensions1.caption
+msgid "Names"
+msgstr "Имена"
+
+#: tform4.rlabel_jpgquality.caption
+msgid "release quality (JPG)"
+msgstr "качество релиза (JPG)"
+
+#: tform4.rradiobutton_en.caption
+msgctxt "tform4.rradiobutton_en.caption"
+msgid "English"
+msgstr "English"
+
+#: tform4.rradiobutton_ru.caption
+msgctxt "tform4.rradiobutton_ru.caption"
+msgid "Русский"
+msgstr "Русский"
+
+#: tform4.rsb_dbnamedel.hint
+msgctxt "tform4.rsb_dbnamedel.hint"
+msgid "remove from database"
+msgstr "удалить из базы данных"
+

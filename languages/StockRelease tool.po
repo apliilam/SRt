@@ -1,0 +1,1135 @@
+msgid "Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)Double Click - fill the form field \"Date\" (from file  -> to form)"
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: rm_main.appsname
+msgid "StockReleaseTool (beta)"
+msgstr ""
+
+#: rm_options.tr_en
+msgctxt "rm_options.tr_en"
+msgid "languages\\PR_Maker.en.po"
+msgstr ""
+
+#: rm_options.tr_ru
+msgctxt "rm_options.tr_ru"
+msgid "languages\\PR_Maker.ru.po"
+msgstr ""
+
+#: rm_translate.translatefile_en
+msgctxt "rm_translate.translatefile_en"
+msgid "languages\\PR_Maker.en.po"
+msgstr ""
+
+#: rm_translate.translatefile_ru
+msgctxt "rm_translate.translatefile_ru"
+msgid "languages\\PR_Maker.ru.po"
+msgstr ""
+
+#: rm_translate.trl_becarefuldigitalsignature
+msgid "Be careful! Some microstock prohibit the use digitized signature."
+msgstr ""
+
+#: rm_translate.trl_confirmation
+msgid "Confirmation"
+msgstr ""
+
+#: rm_translate.trl_continueq
+msgid "Continue?"
+msgstr ""
+
+#: rm_translate.trl_countfileserror_toomanyfiles
+msgid "Too many files!"
+msgstr ""
+
+#: rm_translate.trl_create
+msgid "Create"
+msgstr ""
+
+#: rm_translate.trl_donationmessage1
+msgid "If your working speed increased by this application, you can make a donation via Paypal"
+msgstr ""
+
+#: rm_translate.trl_donationmessage2
+msgid "Copy email to clipboard?"
+msgstr ""
+
+#: rm_translate.trl_donationmessage3
+msgid "Donate?"
+msgstr ""
+
+#: rm_translate.trl_error
+msgid "Oops!"
+msgstr ""
+
+#: rm_translate.trl_errorcreatingtable
+msgid "An error occurred while creating a table"
+msgstr ""
+
+#: rm_translate.trl_filenotfound
+msgid "File not found"
+msgstr ""
+
+#: rm_translate.trl_file_
+msgid "File "
+msgstr ""
+
+#: rm_translate.trl_fillnamefieldinengform
+msgid "Fill Name(print) field in the ENG form"
+msgstr ""
+
+#: rm_translate.trl_getcurrentdate
+msgid "Get current Date"
+msgstr ""
+
+#: rm_translate.trl_getfiledate
+msgctxt "rm_translate.trl_getfiledate"
+msgid "Get file Date"
+msgstr ""
+
+#: rm_translate.trl_iammodelandphotographer
+msgid " I am Model and Photographer"
+msgstr ""
+
+#: rm_translate.trl_iamownerandphotographer
+msgid " I am Owner and Photographer"
+msgstr ""
+
+#: rm_translate.trl_information
+msgid "Information"
+msgstr ""
+
+#: rm_translate.trl_modeldatecannotbeearliershootdate
+msgid "\"Model Date\" can not be earlier than \"Shoot Date\""
+msgstr ""
+
+#: rm_translate.trl_modelmustbeanadult
+msgid "The Model must be an adult. Make sure the correct date of birth Models"
+msgstr ""
+
+#: rm_translate.trl_mustbelessthan
+msgid "allowable no more than "
+msgstr ""
+
+#: rm_translate.trl_overwritefileq
+msgid "Overwrite file?"
+msgstr ""
+
+#: rm_translate.trl_photographerdatecannotbeearliermodeldate
+msgid "\"Photographer Date\" can not be earlier than \"Model Date\""
+msgstr ""
+
+#: rm_translate.trl_photographerdatecannotbeearlierownerdate
+msgid "\"Photographer Date\" can not be earlier than \"Owner Date\""
+msgstr ""
+
+#: rm_translate.trl_prgroupboxfilecaption
+msgctxt "rm_translate.trl_prgroupboxfilecaption"
+msgid "File(s) list:"
+msgstr ""
+
+#: rm_translate.trl_releasefilecreated
+msgid "Release file created"
+msgstr ""
+
+#: rm_translate.trl_sketcheshasnotbeenadded
+msgid "Images has not been added."
+msgstr ""
+
+#: rm_translate.trl_turnonform
+msgid "Turn On form (ENG and/or RUS)"
+msgstr ""
+
+#: rm_translate.trl_uploadsignaturefile
+msgid "Upload Signature file(s)"
+msgstr ""
+
+#: rm_translate.trl_witnessdatecannotbeearlierphotographerdate
+msgid "\"Witness Date\" can not be earlier than \"Photographer Date\""
+msgstr ""
+
+#: rm_translate.trl_youmustfillallfields
+msgid "You must be fill all fields"
+msgstr ""
+
+#: rm_translate.trl_youneedaddfiletolist
+msgid "You need to add file(s) to the list"
+msgstr ""
+
+#: rm_translate.trl_youneednamereleasefile
+msgid "You need to add Release file name"
+msgstr ""
+
+#: rm_translate.trl__alreadyexistsdot
+msgid " already exists."
+msgstr ""
+
+#: rm_translate.trl__files
+msgid " files"
+msgstr ""
+
+#: tform1.caption
+msgid "ReleaseTool"
+msgstr ""
+
+#: tform1.edit8.text
+msgid "ENG - not avalable"
+msgstr ""
+
+#: tform1.edit9.text
+msgid "RUS - not avalable"
+msgstr ""
+
+#: tform1.menuexit.caption
+msgid "Exit"
+msgstr ""
+
+#: tform1.menufile.caption
+msgid "File"
+msgstr ""
+
+#: tform1.menuhelp.caption
+msgid "Help"
+msgstr ""
+
+#: tform1.menuoptions.caption
+msgctxt "tform1.menuoptions.caption"
+msgid "Options"
+msgstr ""
+
+#: tform1.menusabout.caption
+msgid "About"
+msgstr ""
+
+#: tform1.menusdonate.caption
+msgid "Donate"
+msgstr ""
+
+#: tform1.menuslicense.caption
+msgid "License (GPLv3)"
+msgstr ""
+
+#: tform1.menusonlinehelp.caption
+msgid "Online Help"
+msgstr ""
+
+#: tform1.mr.caption
+msgid "Model Release"
+msgstr ""
+
+#: tform1.mrbitbtn_ssmodelphoto.caption
+msgctxt "TFORM1.MRBITBTN_SSMODELPHOTO.CAPTION"
+msgid "..."
+msgstr ""
+
+#: tform1.mrcheckbox_autofillmrname.caption
+msgid "autofill"
+msgstr ""
+
+#: tform1.mrcheckbox_autofillmrname.hint
+msgid "autofill \"Release file name\""
+msgstr ""
+
+#: tform1.mrengedit_odate.cancelcaption
+msgctxt "TFORM1.MRENGEDIT_ODATE.CANCELCAPTION"
+msgid "Cancel"
+msgstr ""
+
+#: tform1.mrengedit_odate.okcaption
+msgctxt "TFORM1.MRENGEDIT_ODATE.OKCAPTION"
+msgid "OK"
+msgstr ""
+
+#: tform1.mrengedit_odatebirth.cancelcaption
+msgctxt "TFORM1.MRENGEDIT_ODATEBIRTH.CANCELCAPTION"
+msgid "Cancel"
+msgstr ""
+
+#: tform1.mrengedit_odatebirth.okcaption
+msgctxt "TFORM1.MRENGEDIT_ODATEBIRTH.OKCAPTION"
+msgid "OK"
+msgstr ""
+
+#: tform1.mrengedit_pdate.cancelcaption
+msgctxt "tform1.mrengedit_pdate.cancelcaption"
+msgid "Cancel"
+msgstr ""
+
+#: tform1.mrengedit_pdate.okcaption
+msgctxt "tform1.mrengedit_pdate.okcaption"
+msgid "OK"
+msgstr ""
+
+#: tform1.mrengedit_pshootdate.cancelcaption
+msgctxt "TFORM1.MRENGEDIT_PSHOOTDATE.CANCELCAPTION"
+msgid "Cancel"
+msgstr ""
+
+#: tform1.mrengedit_pshootdate.okcaption
+msgctxt "TFORM1.MRENGEDIT_PSHOOTDATE.OKCAPTION"
+msgid "OK"
+msgstr ""
+
+#: tform1.mrengedit_wdate.cancelcaption
+msgctxt "TFORM1.MRENGEDIT_WDATE.CANCELCAPTION"
+msgid "Cancel"
+msgstr ""
+
+#: tform1.mrengedit_wdate.okcaption
+msgctxt "TFORM1.MRENGEDIT_WDATE.OKCAPTION"
+msgid "OK"
+msgstr ""
+
+#: tform1.mrengimage_osign.hint
+msgctxt "tform1.mrengimage_osign.hint"
+msgid "Press and move Model Signature using a mouse"
+msgstr ""
+
+#: tform1.mrengimage_psign.hint
+msgctxt "tform1.mrengimage_psign.hint"
+msgid "Press and move Photographer Signature using a mouse"
+msgstr ""
+
+#: tform1.mrengimage_wsign.hint
+msgctxt "tform1.mrengimage_wsign.hint"
+msgid "Press and move Witness Signature using a mouse"
+msgstr ""
+
+#: tform1.mrengsb_dboload.hint
+msgctxt "tform1.mrengsb_dboload.hint"
+msgid "load Model data"
+msgstr ""
+
+#: tform1.mrengsb_dboupdate.hint
+msgctxt "tform1.mrengsb_dboupdate.hint"
+msgid "save Model data"
+msgstr ""
+
+#: tform1.mrengsb_dbpload.hint
+msgctxt "tform1.mrengsb_dbpload.hint"
+msgid "load Photographer data"
+msgstr ""
+
+#: tform1.mrengsb_dbpupdate.hint
+msgctxt "tform1.mrengsb_dbpupdate.hint"
+msgid "save Photographer data"
+msgstr ""
+
+#: tform1.mrengsb_dbwload.hint
+msgctxt "tform1.mrengsb_dbwload.hint"
+msgid "load Witness data"
+msgstr ""
+
+#: tform1.mrengsb_dbwupdate.hint
+msgctxt "tform1.mrengsb_dbwupdate.hint"
+msgid "save Witness data"
+msgstr ""
+
+#: tform1.mrengsb_oclear.hint
+msgctxt "tform1.mrengsb_oclear.hint"
+msgid "clear Model form fields"
+msgstr ""
+
+#: tform1.mrengsb_ocountry.hint
+msgctxt "tform1.mrengsb_ocountry.hint"
+msgid "Set Country (Model)"
+msgstr ""
+
+#: tform1.mrengsb_odate.hint
+msgctxt "tform1.mrengsb_odate.hint"
+msgid "Set Date (Model)"
+msgstr ""
+
+#: tform1.mrengsb_odatebirth.hint
+msgid "Set Date of Birth (Model)"
+msgstr ""
+
+#: tform1.mrengsb_osignature.hint
+msgctxt "tform1.mrengsb_osignature.hint"
+msgid "Load Model Signature image (transparent png)"
+msgstr ""
+
+#: tform1.mrengsb_pclear.hint
+msgctxt "tform1.mrengsb_pclear.hint"
+msgid "clear Photographer form fields"
+msgstr ""
+
+#: tform1.mrengsb_pcountry.hint
+msgctxt "tform1.mrengsb_pcountry.hint"
+msgid "Set Country (Photographer)"
+msgstr ""
+
+#: tform1.mrengsb_pdate.hint
+msgctxt "tform1.mrengsb_pdate.hint"
+msgid "Set Date (Photographer)"
+msgstr ""
+
+#: tform1.mrengsb_pshootdate.hint
+msgid "Set Shooting Date"
+msgstr ""
+
+#: tform1.mrengsb_psignature.hint
+msgctxt "tform1.mrengsb_psignature.hint"
+msgid "Load Photographer Signature image (transparent png)"
+msgstr ""
+
+#: tform1.mrengsb_wclear.hint
+msgctxt "tform1.mrengsb_wclear.hint"
+msgid "clear Witness form fields"
+msgstr ""
+
+#: tform1.mrengsb_wdate.hint
+msgctxt "tform1.mrengsb_wdate.hint"
+msgid "Set Date (Witness)"
+msgstr ""
+
+#: tform1.mrengsb_wsignature.hint
+msgctxt "tform1.mrengsb_wsignature.hint"
+msgid "Load Witness Signature image (transparent png)"
+msgstr ""
+
+#: tform1.mrgroupboxfile.caption
+msgid "Release file name:"
+msgstr ""
+
+#: tform1.mrgroupbox_ssfieldsmodel.caption
+msgid "StockSubmitter fields (model)"
+msgstr ""
+
+#: tform1.mrlabel_ssbirthdate.caption
+msgid "Birth date"
+msgstr ""
+
+#: tform1.mrlabel_sscountry.caption
+msgctxt "TFORM1.MRLABEL_SSCOUNTRY.CAPTION"
+msgid "Country"
+msgstr ""
+
+#: tform1.mrlabel_ssethnicity.caption
+msgid "Ethnicity"
+msgstr ""
+
+#: tform1.mrlabel_ssfirstname.caption
+msgid "First name:"
+msgstr ""
+
+#: tform1.mrlabel_ssgender.caption
+msgid "Gender"
+msgstr ""
+
+#: tform1.mrlabel_sslastname.caption
+msgid "Last name:"
+msgstr ""
+
+#: tform1.mrlabel_ssmodelphoto.caption
+msgctxt "TFORM1.MRLABEL_SSMODELPHOTO.CAPTION"
+msgid "Model photo (optional):"
+msgstr ""
+
+#: tform1.mrlabel_ssnote.caption
+msgctxt "TFORM1.MRLABEL_SSNOTE.CAPTION"
+msgid "Note (optional):"
+msgstr ""
+
+#: tform1.mrlabel_ssshootingdate.caption
+msgctxt "TFORM1.MRLABEL_SSSHOOTINGDATE.CAPTION"
+msgid "Shooting date"
+msgstr ""
+
+#: tform1.mrlabel_sstype.caption
+msgctxt "TFORM1.MRLABEL_SSTYPE.CAPTION"
+msgid "Type"
+msgstr ""
+
+#: tform1.mrm.caption
+msgid "Model Release (Minor)"
+msgstr ""
+
+#: tform1.mrrusedit_odate.cancelcaption
+msgctxt "TFORM1.MRRUSEDIT_ODATE.CANCELCAPTION"
+msgid "Cancel"
+msgstr ""
+
+#: tform1.mrrusedit_odate.okcaption
+msgctxt "TFORM1.MRRUSEDIT_ODATE.OKCAPTION"
+msgid "OK"
+msgstr ""
+
+#: tform1.mrrusedit_pdate.cancelcaption
+msgctxt "TFORM1.MRRUSEDIT_PDATE.CANCELCAPTION"
+msgid "Cancel"
+msgstr ""
+
+#: tform1.mrrusedit_pdate.okcaption
+msgctxt "TFORM1.MRRUSEDIT_PDATE.OKCAPTION"
+msgid "OK"
+msgstr ""
+
+#: tform1.mrrusedit_wdate.cancelcaption
+msgctxt "TFORM1.MRRUSEDIT_WDATE.CANCELCAPTION"
+msgid "Cancel"
+msgstr ""
+
+#: tform1.mrrusedit_wdate.okcaption
+msgctxt "TFORM1.MRRUSEDIT_WDATE.OKCAPTION"
+msgid "OK"
+msgstr ""
+
+#: tform1.mrrusimage_osign.hint
+msgctxt "TFORM1.MRRUSIMAGE_OSIGN.HINT"
+msgid "Press and move Model Signature using a mouse"
+msgstr ""
+
+#: tform1.mrrusimage_psign.hint
+msgctxt "TFORM1.MRRUSIMAGE_PSIGN.HINT"
+msgid "Press and move Photographer Signature using a mouse"
+msgstr ""
+
+#: tform1.mrrusimage_wsign.hint
+msgctxt "TFORM1.MRRUSIMAGE_WSIGN.HINT"
+msgid "Press and move Witness Signature using a mouse"
+msgstr ""
+
+#: tform1.mrrussb_dboload.hint
+msgctxt "TFORM1.MRRUSSB_DBOLOAD.HINT"
+msgid "load Model data"
+msgstr ""
+
+#: tform1.mrrussb_dboupdate.hint
+msgctxt "TFORM1.MRRUSSB_DBOUPDATE.HINT"
+msgid "save Model data"
+msgstr ""
+
+#: tform1.mrrussb_dbpload.hint
+msgctxt "TFORM1.MRRUSSB_DBPLOAD.HINT"
+msgid "load Photographer data"
+msgstr ""
+
+#: tform1.mrrussb_dbpupdate.hint
+msgctxt "TFORM1.MRRUSSB_DBPUPDATE.HINT"
+msgid "save Photographer data"
+msgstr ""
+
+#: tform1.mrrussb_dbwload.hint
+msgctxt "TFORM1.MRRUSSB_DBWLOAD.HINT"
+msgid "load Witness data"
+msgstr ""
+
+#: tform1.mrrussb_dbwupdate.hint
+msgctxt "TFORM1.MRRUSSB_DBWUPDATE.HINT"
+msgid "save Witness data"
+msgstr ""
+
+#: tform1.mrrussb_oclear.hint
+msgctxt "TFORM1.MRRUSSB_OCLEAR.HINT"
+msgid "clear Model form fields"
+msgstr ""
+
+#: tform1.mrrussb_ocountry.hint
+msgctxt "TFORM1.MRRUSSB_OCOUNTRY.HINT"
+msgid "Set Country (Model)"
+msgstr ""
+
+#: tform1.mrrussb_odate.hint
+msgctxt "TFORM1.MRRUSSB_ODATE.HINT"
+msgid "Set Date (Model)"
+msgstr ""
+
+#: tform1.mrrussb_osignature.hint
+msgctxt "TFORM1.MRRUSSB_OSIGNATURE.HINT"
+msgid "Load Model Signature image (transparent png)"
+msgstr ""
+
+#: tform1.mrrussb_pclear.hint
+msgctxt "TFORM1.MRRUSSB_PCLEAR.HINT"
+msgid "clear Photographer form fields"
+msgstr ""
+
+#: tform1.mrrussb_pcountry.hint
+msgctxt "TFORM1.MRRUSSB_PCOUNTRY.HINT"
+msgid "Set Country (Photographer)"
+msgstr ""
+
+#: tform1.mrrussb_pdate.hint
+msgctxt "TFORM1.MRRUSSB_PDATE.HINT"
+msgid "Set Date (Photographer)"
+msgstr ""
+
+#: tform1.mrrussb_psignature.hint
+msgctxt "TFORM1.MRRUSSB_PSIGNATURE.HINT"
+msgid "Load Photographer Signature image (transparent png)"
+msgstr ""
+
+#: tform1.mrrussb_wclear.hint
+msgctxt "TFORM1.MRRUSSB_WCLEAR.HINT"
+msgid "clear Witness form fields"
+msgstr ""
+
+#: tform1.mrrussb_wdate.hint
+msgctxt "TFORM1.MRRUSSB_WDATE.HINT"
+msgid "Set Date (Witness)"
+msgstr ""
+
+#: tform1.mrrussb_wsignature.hint
+msgctxt "TFORM1.MRRUSSB_WSIGNATURE.HINT"
+msgid "Load Witness Signature image (transparent png)"
+msgstr ""
+
+#: tform1.panel1.caption
+msgid "Panel1"
+msgstr ""
+
+#: tform1.pr.caption
+msgid "Property Release"
+msgstr ""
+
+#: tform1.pra.caption
+msgid "Property Release (animal)"
+msgstr ""
+
+#: tform1.prbitbtn_ssmodelphoto.caption
+msgctxt "tform1.prbitbtn_ssmodelphoto.caption"
+msgid "..."
+msgstr ""
+
+#: tform1.prbuttoncreate.caption
+msgid "create Release"
+msgstr ""
+
+#: tform1.prcheckbox_nearly.caption
+msgid " Put in the same directory"
+msgstr ""
+
+#: tform1.prcheckbox_nearly.hint
+msgid "create a Release in the folder next to the selected file"
+msgstr ""
+
+#: tform1.prcheckbox_onereleaseperfile.caption
+msgid " One Release per File"
+msgstr ""
+
+#: tform1.prcheckbox_onereleaseperfile.hint
+msgid "One Release per File"
+msgstr ""
+
+#: tform1.preditcustomtitle.hint
+msgid "for applying - press enter"
+msgstr ""
+
+#: tform1.prengedit_odate.cancelcaption
+msgctxt "TFORM1.PRENGEDIT_ODATE.CANCELCAPTION"
+msgid "Cancel"
+msgstr ""
+
+#: tform1.prengedit_odate.okcaption
+msgctxt "TFORM1.PRENGEDIT_ODATE.OKCAPTION"
+msgid "OK"
+msgstr ""
+
+#: tform1.prengedit_pdate.cancelcaption
+msgctxt "TFORM1.PRENGEDIT_PDATE.CANCELCAPTION"
+msgid "Cancel"
+msgstr ""
+
+#: tform1.prengedit_pdate.okcaption
+msgctxt "TFORM1.PRENGEDIT_PDATE.OKCAPTION"
+msgid "OK"
+msgstr ""
+
+#: tform1.prengedit_wdate.cancelcaption
+msgctxt "TFORM1.PRENGEDIT_WDATE.CANCELCAPTION"
+msgid "Cancel"
+msgstr ""
+
+#: tform1.prengedit_wdate.okcaption
+msgctxt "TFORM1.PRENGEDIT_WDATE.OKCAPTION"
+msgid "OK"
+msgstr ""
+
+#: tform1.prengimage_osign.hint
+msgctxt "tform1.prengimage_osign.hint"
+msgid "Press and move Owner Signature using a mouse"
+msgstr ""
+
+#: tform1.prengimage_psign.hint
+msgctxt "TFORM1.PRENGIMAGE_PSIGN.HINT"
+msgid "Press and move Photographer Signature using a mouse"
+msgstr ""
+
+#: tform1.prengimage_wsign.hint
+msgctxt "TFORM1.PRENGIMAGE_WSIGN.HINT"
+msgid "Press and move Witness Signature using a mouse"
+msgstr ""
+
+#: tform1.prengsb_dboload.hint
+msgctxt "tform1.prengsb_dboload.hint"
+msgid "load Owner data"
+msgstr ""
+
+#: tform1.prengsb_dboupdate.hint
+msgctxt "tform1.prengsb_dboupdate.hint"
+msgid "save Owner data"
+msgstr ""
+
+#: tform1.prengsb_dbpload.hint
+msgctxt "TFORM1.PRENGSB_DBPLOAD.HINT"
+msgid "load Photographer data"
+msgstr ""
+
+#: tform1.prengsb_dbpupdate.hint
+msgctxt "TFORM1.PRENGSB_DBPUPDATE.HINT"
+msgid "save Photographer data"
+msgstr ""
+
+#: tform1.prengsb_dbwload.hint
+msgctxt "TFORM1.PRENGSB_DBWLOAD.HINT"
+msgid "load Witness data"
+msgstr ""
+
+#: tform1.prengsb_dbwupdate.hint
+msgctxt "TFORM1.PRENGSB_DBWUPDATE.HINT"
+msgid "save Witness data"
+msgstr ""
+
+#: tform1.prengsb_oclear.hint
+msgctxt "tform1.prengsb_oclear.hint"
+msgid "clear Owner form fields"
+msgstr ""
+
+#: tform1.prengsb_ocountry.hint
+msgctxt "tform1.prengsb_ocountry.hint"
+msgid "Set Country (Owner)"
+msgstr ""
+
+#: tform1.prengsb_odate.hint
+msgctxt "tform1.prengsb_odate.hint"
+msgid "Set Date (Owner)"
+msgstr ""
+
+#: tform1.prengsb_osignature.hint
+msgctxt "tform1.prengsb_osignature.hint"
+msgid "Load Owner Signature image (transparent png)"
+msgstr ""
+
+#: tform1.prengsb_pclear.hint
+msgctxt "TFORM1.PRENGSB_PCLEAR.HINT"
+msgid "clear Photographer form fields"
+msgstr ""
+
+#: tform1.prengsb_pcountry.hint
+msgctxt "TFORM1.PRENGSB_PCOUNTRY.HINT"
+msgid "Set Country (Photographer)"
+msgstr ""
+
+#: tform1.prengsb_pdate.hint
+msgctxt "TFORM1.PRENGSB_PDATE.HINT"
+msgid "Set Date (Photographer)"
+msgstr ""
+
+#: tform1.prengsb_psignature.hint
+msgctxt "TFORM1.PRENGSB_PSIGNATURE.HINT"
+msgid "Load Photographer Signature image (transparent png)"
+msgstr ""
+
+#: tform1.prengsb_wclear.hint
+msgctxt "TFORM1.PRENGSB_WCLEAR.HINT"
+msgid "clear Witness form fields"
+msgstr ""
+
+#: tform1.prengsb_wdate.hint
+msgctxt "TFORM1.PRENGSB_WDATE.HINT"
+msgid "Set Date (Witness)"
+msgstr ""
+
+#: tform1.prengsb_wsignature.hint
+msgctxt "TFORM1.PRENGSB_WSIGNATURE.HINT"
+msgid "Load Witness Signature image (transparent png)"
+msgstr ""
+
+#: tform1.prgroupboxfile.caption
+msgctxt "TFORM1.PRGROUPBOXFILE.CAPTION"
+msgid "File(s) list:"
+msgstr ""
+
+#: tform1.prgroupbox_ssfieldproperty.caption
+msgid "StockSubmitter fields (property)"
+msgstr ""
+
+#: tform1.prlabelselfile.caption
+msgid "                   "
+msgstr ""
+
+#: tform1.prlabel_sscountry.caption
+msgctxt "tform1.prlabel_sscountry.caption"
+msgid "Country"
+msgstr ""
+
+#: tform1.prlabel_ssmodelphoto.caption
+msgctxt "tform1.prlabel_ssmodelphoto.caption"
+msgid "Model photo (optional):"
+msgstr ""
+
+#: tform1.prlabel_ssname.caption
+msgid "Name"
+msgstr ""
+
+#: tform1.prlabel_ssnote.caption
+msgctxt "tform1.prlabel_ssnote.caption"
+msgid "Note (optional):"
+msgstr ""
+
+#: tform1.prlabel_sspropertyowner.caption
+msgid "Property owner:"
+msgstr ""
+
+#: tform1.prlabel_ssshootingdate.caption
+msgctxt "tform1.prlabel_ssshootingdate.caption"
+msgid "Shooting date"
+msgstr ""
+
+#: tform1.prlabel_sstype.caption
+msgctxt "tform1.prlabel_sstype.caption"
+msgid "Type"
+msgstr ""
+
+#: tform1.prlistboxfile.hint
+msgid "Click - selecting file"
+msgstr ""
+
+#: tform1.prpanelref.hint
+msgid "Add Reference (double click)"
+msgstr ""
+
+#: tform1.prppmenucrop.caption
+msgid "Crop"
+msgstr ""
+
+#: tform1.prppmenudelete.caption
+msgctxt "TFORM1.PRPPMENUDELETE.CAPTION"
+msgid "Delete"
+msgstr ""
+
+#: tform1.prppmenugetfiledate.caption
+msgctxt "TFORM1.PRPPMENUGETFILEDATE.CAPTION"
+msgid "Get file Date"
+msgstr ""
+
+#: tform1.prppmenugetrefdate.caption
+msgid "Get reference Date"
+msgstr ""
+
+#: tform1.prppmenugetrefdate.hint
+msgid "Fill Date Owner field from this reference file"
+msgstr ""
+
+#: tform1.prppmenuitemrotateno90.caption
+msgid "90 Counter Clockwise"
+msgstr ""
+
+#: tform1.prppmenuitemrotateyes90.caption
+msgid "90 Clockwise"
+msgstr ""
+
+#: tform1.prppmenureset.caption
+msgid "Revert"
+msgstr ""
+
+#: tform1.prppmenurotate.caption
+msgid "Rotate"
+msgstr ""
+
+#: tform1.prrusedit_odate.cancelcaption
+msgctxt "TFORM1.PRRUSEDIT_ODATE.CANCELCAPTION"
+msgid "Cancel"
+msgstr ""
+
+#: tform1.prrusedit_odate.okcaption
+msgctxt "TFORM1.PRRUSEDIT_ODATE.OKCAPTION"
+msgid "OK"
+msgstr ""
+
+#: tform1.prrusedit_pdate.cancelcaption
+msgctxt "TFORM1.PRRUSEDIT_PDATE.CANCELCAPTION"
+msgid "Cancel"
+msgstr ""
+
+#: tform1.prrusedit_pdate.okcaption
+msgctxt "TFORM1.PRRUSEDIT_PDATE.OKCAPTION"
+msgid "OK"
+msgstr ""
+
+#: tform1.prrusedit_wdate.cancelcaption
+msgctxt "TFORM1.PRRUSEDIT_WDATE.CANCELCAPTION"
+msgid "Cancel"
+msgstr ""
+
+#: tform1.prrusedit_wdate.okcaption
+msgctxt "TFORM1.PRRUSEDIT_WDATE.OKCAPTION"
+msgid "OK"
+msgstr ""
+
+#: tform1.prrusimage_osign.hint
+msgctxt "TFORM1.PRRUSIMAGE_OSIGN.HINT"
+msgid "Press and move Owner Signature using a mouse"
+msgstr ""
+
+#: tform1.prrusimage_psign.hint
+msgctxt "TFORM1.PRRUSIMAGE_PSIGN.HINT"
+msgid "Press and move Photographer Signature using a mouse"
+msgstr ""
+
+#: tform1.prrusimage_wsign.hint
+msgctxt "TFORM1.PRRUSIMAGE_WSIGN.HINT"
+msgid "Press and move Witness Signature using a mouse"
+msgstr ""
+
+#: tform1.prrussb_dboload.hint
+msgctxt "TFORM1.PRRUSSB_DBOLOAD.HINT"
+msgid "load Owner data"
+msgstr ""
+
+#: tform1.prrussb_dboupdate.hint
+msgctxt "TFORM1.PRRUSSB_DBOUPDATE.HINT"
+msgid "save Owner data"
+msgstr ""
+
+#: tform1.prrussb_dbpload.hint
+msgctxt "TFORM1.PRRUSSB_DBPLOAD.HINT"
+msgid "load Photographer data"
+msgstr ""
+
+#: tform1.prrussb_dbpupdate.hint
+msgctxt "TFORM1.PRRUSSB_DBPUPDATE.HINT"
+msgid "save Photographer data"
+msgstr ""
+
+#: tform1.prrussb_dbwload.hint
+msgctxt "TFORM1.PRRUSSB_DBWLOAD.HINT"
+msgid "load Witness data"
+msgstr ""
+
+#: tform1.prrussb_dbwupdate.hint
+msgctxt "TFORM1.PRRUSSB_DBWUPDATE.HINT"
+msgid "save Witness data"
+msgstr ""
+
+#: tform1.prrussb_oclear.hint
+msgctxt "TFORM1.PRRUSSB_OCLEAR.HINT"
+msgid "clear Owner form fields"
+msgstr ""
+
+#: tform1.prrussb_ocountry.hint
+msgctxt "TFORM1.PRRUSSB_OCOUNTRY.HINT"
+msgid "Set Country (Owner)"
+msgstr ""
+
+#: tform1.prrussb_odate.hint
+msgctxt "TFORM1.PRRUSSB_ODATE.HINT"
+msgid "Set Date (Owner)"
+msgstr ""
+
+#: tform1.prrussb_osignature.hint
+msgctxt "TFORM1.PRRUSSB_OSIGNATURE.HINT"
+msgid "Load Owner Signature image (transparent png)"
+msgstr ""
+
+#: tform1.prrussb_pclear.hint
+msgctxt "TFORM1.PRRUSSB_PCLEAR.HINT"
+msgid "clear Photographer form fields"
+msgstr ""
+
+#: tform1.prrussb_pcountry.hint
+msgctxt "TFORM1.PRRUSSB_PCOUNTRY.HINT"
+msgid "Set Country (Photographer)"
+msgstr ""
+
+#: tform1.prrussb_pdate.hint
+msgctxt "TFORM1.PRRUSSB_PDATE.HINT"
+msgid "Set Date (Photographer)"
+msgstr ""
+
+#: tform1.prrussb_psignature.hint
+msgctxt "TFORM1.PRRUSSB_PSIGNATURE.HINT"
+msgid "Load Photographer Signature image (transparent png)"
+msgstr ""
+
+#: tform1.prrussb_wclear.hint
+msgctxt "TFORM1.PRRUSSB_WCLEAR.HINT"
+msgid "clear Witness form fields"
+msgstr ""
+
+#: tform1.prrussb_wdate.hint
+msgctxt "TFORM1.PRRUSSB_WDATE.HINT"
+msgid "Set Date (Witness)"
+msgstr ""
+
+#: tform1.prrussb_wsignature.hint
+msgctxt "TFORM1.PRRUSSB_WSIGNATURE.HINT"
+msgid "Load Witness Signature image (transparent png)"
+msgstr ""
+
+#: tform1.prsbdelallreferences.hint
+msgid "Remove all References"
+msgstr ""
+
+#: tform1.prsbrefpanelcollapse.hint
+msgid "minimize Reference area"
+msgstr ""
+
+#: tform1.prsb_add.caption
+msgid "Add Custom"
+msgstr ""
+
+#: tform1.prsb_add.hint
+msgid "Add custom Title (file) to the list"
+msgstr ""
+
+#: tform1.prspeedbuttonfile.caption
+msgid "Open File(s)"
+msgstr ""
+
+#: tform1.prspeedbuttonfile.hint
+msgid "Select file(s) to add to the list"
+msgstr ""
+
+#: tform1.prspeedbuttonfileclear.caption
+msgid "Clear List"
+msgstr ""
+
+#: tform1.prspeedbuttonfiledelete.caption
+msgctxt "tform1.prspeedbuttonfiledelete.caption"
+msgid "Delete"
+msgstr ""
+
+#: tform1.prspeedbuttonfiledelete.hint
+msgid "Remove Title (file) from the list"
+msgstr ""
+
+#: tform1.prstatusbar.panels[0].text
+msgid " by apliilam"
+msgstr ""
+
+#: tform1.rcheckbox_self.caption
+msgid " itself Owner"
+msgstr ""
+
+#: tform1.rcheckbox_self.hint
+msgid "autofill \"Model (Property) Information\" fields"
+msgstr ""
+
+#: tform1.rpanelrefarea.caption
+msgid "add image"
+msgstr ""
+
+#: tform1.rpanelrefarea.hint
+msgid "add image (double click)"
+msgstr ""
+
+#: tform1.rsbformeng.caption
+msgid "ENG"
+msgstr ""
+
+#: tform1.rsbformeng.hint
+msgid "use English form"
+msgstr ""
+
+#: tform1.rsbformref.caption
+msgid "images"
+msgstr ""
+
+#: tform1.rsbformref.hint
+msgid "use images form"
+msgstr ""
+
+#: tform1.rsbformrus.caption
+msgid "RUS"
+msgstr ""
+
+#: tform1.rsbformrus.hint
+msgid "use Russian form"
+msgstr ""
+
+#: tform2.caption
+msgid "Crop image"
+msgstr ""
+
+#: tform3.caption
+msgid "Wait please"
+msgstr ""
+
+#: tform4.caption
+msgctxt "TFORM4.CAPTION"
+msgid "Options"
+msgstr ""
+
+#: tform4.prcheckboxcopyprname.caption
+msgid " Copy Release name"
+msgstr ""
+
+#: tform4.prcheckboxcopyprname.hint
+msgid "Copy Release (file) name to clipboard"
+msgstr ""
+
+#: tform4.prcheckboxusess_compatibility.caption
+msgid " Release for StockSubmitter"
+msgstr ""
+
+#: tform4.prcheckboxusess_compatibility.hint
+msgid "Release for StockSubmitter"
+msgstr ""
+
+#: tform4.rcheckbox_usedate.caption
+msgid " Use Date"
+msgstr ""
+
+#: tform4.rcheckbox_usedate.hint
+msgid "use of Dates on forms"
+msgstr ""
+
+#: tform4.rcheckbox_usesignature.caption
+msgid " Use digitized signature"
+msgstr ""
+
+#: tform4.rcheckbox_usesignature.hint
+msgid "use of scanned signature"
+msgstr ""
+
+#: tform4.rcomboboxdateformat.text
+msgid "dd.MM.yyyy"
+msgstr ""
+
+#: tform4.rgroupbox_formproperties.caption
+msgid "Release form properties"
+msgstr ""
+
+#: tform4.rgroupbox_lang.caption
+msgid "Language"
+msgstr ""
+
+#: tform4.rlabeldateformat.caption
+msgid "release Date format"
+msgstr ""
+
+#: tform4.rlabel_jpgdimensions.caption
+msgid "release dimensions"
+msgstr ""
+
+#: tform4.rlabel_jpgdimensions1.caption
+msgid "Names"
+msgstr ""
+
+#: tform4.rlabel_jpgquality.caption
+msgid "release quality (JPG)"
+msgstr ""
+
+#: tform4.rradiobutton_en.caption
+msgid "English"
+msgstr ""
+
+#: tform4.rradiobutton_ru.caption
+msgid "Русский"
+msgstr ""
+
+#: tform4.rsb_dbnamedel.hint
+msgid "remove from database"
+msgstr ""
+
